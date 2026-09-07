@@ -35,6 +35,10 @@
 }
 
 /* shared style */
+
+.cell{
+    color: red;
+}
 .center{
     text-align: center;
 }
@@ -100,3 +104,30 @@ header{
  .work-1, .work-2, .work-3{
     margin-top: 10px;
  }
+
+ /* offer section */
+ .offer-content-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: rgba(39, 39, 39, 1);
+ }
+
+  .offer-content-title{
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(39, 39, 39, 0.6);
+  }
+  .main-offer{
+    display: flex;
+    background-color:    rgba(190, 228, 157, 1);
+    border-radius: 17px;
+    justify-content: space-between;
+    padding: 0px 100px;
+    text-align: center;
+  }
+  .offer-content{
+    margin-top: 150px;
+  }
+  .offer-img{
+    margin-top: 50px;
+  }
