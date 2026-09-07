@@ -86,3 +86,17 @@ header{
     border-radius: 15px;
     padding: 20px 30px;
 }
+
+/* contract section */
+.main-contract{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(39, 39, 39, 0.05);
+     margin-bottom: 50px;
+     margin-top: 70px;
+     border-radius: 15px;
+    
+}
+ .work-1, .work-2, .work-3{
+    margin-top: 10px;
+ }
